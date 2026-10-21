@@ -1,0 +1,8 @@
+**/portfolio/
+**/index.html
+**/*.css
+**/*.js
+**/assets/
+target/
+*.zip
+*.exe
