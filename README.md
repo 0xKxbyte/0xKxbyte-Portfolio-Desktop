@@ -2,7 +2,7 @@
 
 Aplicação desktop desenvolvida com **Java 21, JavaFX, HTML5, CSS3 e JavaScript**, criada para apresentar meu portfólio pessoal em uma janela nativa do Windows.
 
-## 🖥️ Interface da aplicação
+## Interface da aplicação
 
 <p align="center">
   <img
@@ -16,7 +16,7 @@ Aplicação desktop desenvolvida com **Java 21, JavaFX, HTML5, CSS3 e JavaScript
   <i>Interface do 0xKxbyte Portfolio Desktop no Windows.</i>
 </p>
 
-## 🚀 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - **Java 21 (LTS)** — Linguagem principal.
 - **JavaFX** — Interface gráfica desktop.
@@ -27,7 +27,7 @@ Aplicação desktop desenvolvida com **Java 21, JavaFX, HTML5, CSS3 e JavaScript
 - **Apache Maven** — Gerenciamento de dependências.
 - **Git e GitHub** — Versionamento.
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - Janela nativa do Windows.
 - Botões nativos de minimizar, maximizar e fechar.
@@ -37,7 +37,7 @@ Aplicação desktop desenvolvida com **Java 21, JavaFX, HTML5, CSS3 e JavaScript
 - Links externos abertos no navegador padrão.
 - Integração com o GitHub.
 
-## 💻 Compatibilidade
+## Compatibilidade
 
 | Sistema operacional | Suporte |
 |---------------------|---------|
@@ -47,7 +47,7 @@ Aplicação desktop desenvolvida com **Java 21, JavaFX, HTML5, CSS3 e JavaScript
 
 > **Importante:** o projeto foi desenvolvido principalmente para Windows. Para utilizar no Linux, é necessário configurar o ambiente JavaFX e recompilar a aplicação para a plataforma.
 
-## 📦 Instalação
+## Instalação
 
 ### 1. Clonar o repositório
 
