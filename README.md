@@ -1,56 +1,55 @@
 # 0xKxbyte Portfolio Desktop
 
-Aplicação desktop desenvolvida com **Java 21, JavaFX, HTML5, CSS3 e JavaScript**, criada para apresentar meu portfólio pessoal em uma janela nativa do Windows.
+Desktop application developed with **Java 21, JavaFX, HTML5, CSS3, and JavaScript**, designed to showcase my personal portfolio in a native Windows window.
 
-## Interface da aplicação
+## Application Interface
 
 <p align="center">
   <img
     src="src/main/resources/portfolio/assets/interface.png"
-    alt="Interface do 0xKxbyte Portfolio Desktop"
+    alt="0xKxbyte Portfolio Desktop Interface"
     width="900"
   />
 </p>
 
 <p align="center">
-  <i>Interface do 0xKxbyte Portfolio Desktop no Windows.</i>
+  <i>0xKxbyte Portfolio Desktop interface running on Windows.</i>
 </p>
 
-## Tecnologias utilizadas
+## Technologies Used
 
-- **Java 21 (LTS)** — Linguagem principal.
-- **JavaFX** — Interface gráfica desktop.
-- **JavaFX WebView** — Renderização do portfólio.
-- **HTML5** — Estrutura da interface.
-- **CSS3** — Estilização.
-- **JavaScript** — Interatividade.
-- **Apache Maven** — Gerenciamento de dependências.
-- **Git e GitHub** — Versionamento.
+- **Java 21 (LTS)** — Main programming language.
+- **JavaFX** — Desktop graphical user interface.
+- **JavaFX WebView** — Portfolio rendering.
+- **HTML5** — Interface structure.
+- **CSS3** — Styling.
+- **JavaScript** — Interactivity.
+- **Apache Maven** — Dependency management.
+- **Git and GitHub** — Version control.
 
-## Funcionalidades
+## Features
 
-- Janela nativa do Windows.
-- Botões nativos de minimizar, maximizar e fechar.
-- Interface sem barra de endereço.
-- Renderização de HTML, CSS e JavaScript.
-- Rolagem vertical.
-- Links externos abertos no navegador padrão.
-- Integração com o GitHub.
+- Native Windows application window.
+- Native minimize, maximize, and close buttons.
+- Interface without an address bar.
+- HTML, CSS, and JavaScript rendering.
+- Vertical scrolling.
+- External links opened in the default system browser.
+- GitHub integration.
 
-## Compatibilidade
+## Compatibility
 
-| Sistema operacional | Suporte |
-|---------------------|---------|
-| Windows 10/11       | Principal |
-| Linux               | Requer recompilação e testes |
-| macOS               | Não testado |
+| Operating System | Support |
+|------------------|---------|
+| Windows 10/11    | Primary |
+| Linux            | Requires recompilation and testing |
+| macOS            | Not tested |
 
-> **Importante:** o projeto foi desenvolvido principalmente para Windows. Para utilizar no Linux, é necessário configurar o ambiente JavaFX e recompilar a aplicação para a plataforma.
+> **Important:** This project was primarily developed for Windows. To run it on Linux, you must configure the JavaFX environment and recompile the application for the target platform.
 
-## Instalação
+## Installation
 
-### 1. Clonar o repositório
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/0xKxbyte/0xKxbyte-Portfolio-Desktop.git
-```
