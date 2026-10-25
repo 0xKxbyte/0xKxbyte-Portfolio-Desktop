@@ -53,8 +53,4 @@ Aplicação desktop desenvolvida com **Java 21, JavaFX, HTML5, CSS3 e JavaScript
 
 ```bash
 git clone https://github.com/0xKxbyte/0xKxbyte-Portfolio-Desktop.git
-
-**A linha que exibe sua imagem é:**
-
-```md
-![Interface do 0xKxbyte Portfolio Desktop](src/main/resources/portfolio/assets/interface.png)
+```
